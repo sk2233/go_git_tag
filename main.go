@@ -3,5 +3,5 @@ package go_git_tag
 import "fmt"
 
 func ShowVersion() {
-	fmt.Println("Main Default Branch")
+	fmt.Println("Tag v1.5.0")
 }
